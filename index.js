@@ -70,7 +70,7 @@ app.post('/apply', upload.single('cv'), async (req, res) => {
     const userHtml = `
   <div style="font-family: Arial, sans-serif; padding: 20px; color: #333;">
     <div style="text-align: center; margin-bottom: 20px;">
-      <img src="https://i.postimg.cc/h4ZkBQjM/TAMSA-LOGO-1-page-0001-removebg-preview.png" alt="Tamsa Logo" style="height: 60px;">
+      <img src="https://i.postimg.cc/br2rRWTV/Tamsa-Logo.jpg" alt="Tamsa Logo" style="height: 60px;">
     </div>
 
     <h2 style="color: #2c3e50;">Thank you for applying to Tamsa!</h2>
